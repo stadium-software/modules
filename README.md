@@ -3,6 +3,8 @@
 
 # Stadium Modules Library
 
+This library extends the out-of-the-box functionality for Stadium 6
+
 ## CheckBoxes and CheckBoxLists
 
 | Repo | Description | Stadium Versions |
