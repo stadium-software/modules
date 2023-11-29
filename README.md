@@ -18,7 +18,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |>
-| [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of entire DataGrids | 6 |
+| [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
 | [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inlined editing of selected DataGrids columns | 6 |
 | [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
