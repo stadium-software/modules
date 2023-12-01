@@ -48,7 +48,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
-| [Split Button](https://github.com/stadium-software/split-buttons) | Converting a button and a dropdown into a split button | 6 |
+| [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
