@@ -32,11 +32,17 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 
+## Layouts
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Full-Width Top Bar](https://github.com/stadium-software/full-width-top-bar) | Making the first row span the entire viewport | 6 |
+| [Holy Grail Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
+
 ## Misc
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Holy Grail Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 | [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
 | [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
