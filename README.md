@@ -5,13 +5,6 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
-## CheckBoxes and CheckBoxLists
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [All Options List](https://github.com/stadium-software/checkbox-list-all-options) | Checked and unchecked options from a checkbox list in one list | 6 |
-| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
-
 ## DataGrids
 
 | Repo | Description | Stadium Versions |
@@ -25,13 +18,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Set DataGrid Page](https://github.com/stadium-software/datagrid-set-page) | Navigating to any DataGrid page | 6 |
 | [Show / Hide Column](https://github.com/stadium-software/datagrid-showhide-columns) | Enabling users to show and hide datagrid columns | 6 |
 
-## DropDowns
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
-| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
-
 ## Layouts
 
 | Repo | Description | Stadium Versions |
@@ -43,6 +29,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
 | [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
@@ -52,6 +39,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
+| [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
+| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
