@@ -55,6 +55,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculating percentages to specific decimal places | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
