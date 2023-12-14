@@ -51,5 +51,11 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/tabs) | Turning a RadioButtonList into toggle buttons | 6 |
 
+## Utilities
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
+
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
 </div>
