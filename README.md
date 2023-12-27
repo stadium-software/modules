@@ -49,6 +49,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
+| [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 
 ## Utilities
 
