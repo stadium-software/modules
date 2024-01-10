@@ -24,6 +24,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Icons](https://github.com/stadium-software/icons) | Add icons from a large number of sets to your applications | 6                |
+| [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs with or without icons | 6 |
 
 ## Layouts
 
