@@ -22,6 +22,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                         | Description                                   | Stadium Versions |
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
+| [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Icons](https://github.com/stadium-software/icons) | Add icons from a large number of sets to your applications | 6                |
 
 ## Layouts
@@ -46,6 +47,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
+| [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
