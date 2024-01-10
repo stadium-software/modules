@@ -18,6 +18,12 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Set DataGrid Page](https://github.com/stadium-software/datagrid-set-page) | Navigating to any DataGrid page | 6 |
 | [Show / Hide Column](https://github.com/stadium-software/datagrid-showhide-columns) | Enabling users to show and hide datagrid columns | 6 |
 
+## Icons
+
+| Repo                                                                         | Description                                   | Stadium Versions |
+| :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
+| [Icons](https://github.com/stadium-software/icons) | Add icons from a large number of libraries to your applications | 6                |
+
 ## Layouts
 
 | Repo | Description | Stadium Versions |
