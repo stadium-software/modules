@@ -51,6 +51,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
+| [Clickable](https://github.com/stadium-software/clickable) | Make container controls clickable | 6 |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
@@ -61,6 +62,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
+| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 
 ## Utilities
 
