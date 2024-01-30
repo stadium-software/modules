@@ -25,6 +25,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Icons](https://github.com/stadium-software/icons) | Add icons from a large number of sets to your applications | 6                |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs with or without icons | 6 |
+| [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Layouts
 
@@ -56,13 +57,13 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
-| [Progress Bar](https://github.com/stadium-software/progress-bar) | Vertical workflow progress indicator | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
 | [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
+| [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Utilities
 
