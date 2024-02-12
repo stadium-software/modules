@@ -14,6 +14,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
 | [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inlined editing of selected DataGrid columns | 6 |
 | [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
+| [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Set DataGrid Page](https://github.com/stadium-software/datagrid-set-page) | Navigating to any DataGrid page | 6 |
 | [Show / Hide Column](https://github.com/stadium-software/datagrid-showhide-columns) | Enabling users to show and hide datagrid columns | 6 |
