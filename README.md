@@ -5,13 +5,6 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
-## Supporting Repos
-
-| Repo                                                                            | Description                       | Stadium Versions |
-| :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
-| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
-| [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
-
 ## DataGrids
 
 | Repo | Description | Stadium Versions |
@@ -87,6 +80,13 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
+
+## Supporting Repos
+
+| Repo                                                                            | Description                       | Stadium Versions |
+| :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
+| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
 </div>
