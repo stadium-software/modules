@@ -5,6 +5,13 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
+## Supporting Repos
+
+| Repo                                                                            | Description                       | Stadium Versions |
+| :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
+| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
+
 ## DataGrids
 
 | Repo | Description | Stadium Versions |
@@ -44,7 +51,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Clickable](https://github.com/stadium-software/clickable) | Make container controls clickable | 6 |
 | [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
 | [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
-| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
 
