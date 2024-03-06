@@ -27,7 +27,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Icons Framework](https://github.com/stadium-software/icons) | Adding the Iconify icons library to an application | 6                |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs with or without icons | 6 |
-| [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Layouts
@@ -67,7 +66,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
-| [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Utilities
 
