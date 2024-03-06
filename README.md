@@ -11,6 +11,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |>
+| [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6                |
 | [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
 | [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inlined editing of selected DataGrid columns | 6 |
 | [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
@@ -25,8 +26,10 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
 | [Buttons, Labels and Links](https://github.com/stadium-software/label-button-icons) | Adding icons to button, label or link controls | 6                |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
+| [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6                |
 | [Icons Framework](https://github.com/stadium-software/icons) | Adding the Iconify icons library to an application | 6                |
 | [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs with or without icons | 6 |
+| [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Layouts
@@ -56,7 +59,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Clickable](https://github.com/stadium-software/clickable) | Make container controls clickable | 6 |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
-| [Multi-Column CheckBoxList](https://github.com/stadium-software/multicolumn-checkboxlist) | Checkbox lists displayed in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
@@ -66,6 +68,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
+| [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Utilities
 
