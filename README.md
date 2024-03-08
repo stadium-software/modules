@@ -79,10 +79,11 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cooies | 6 |
-| [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List by a property and a value | 6 |
-| [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List by a property and a value | 6 |
+| [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List by a property value | 6 |
+| [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List by a property value | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
+| [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object in a List by a property value | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 
 ## Supporting Repos
