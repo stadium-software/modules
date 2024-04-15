@@ -9,7 +9,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |>
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6                |
 | [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
