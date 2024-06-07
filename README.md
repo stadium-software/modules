@@ -88,6 +88,12 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 
+## Applications
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [User Management Portal](https://github.com/stadium-software/user-management-portal) | Bulk manage users across Stadium applications | 6 |
+
 ## Supporting Repos
 
 | Repo                                                                            | Description                       | Stadium Versions |
