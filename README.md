@@ -58,6 +58,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter the values shown in a DropDown | 6 |
+| [Menu Selected Item Styling](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
 | [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
