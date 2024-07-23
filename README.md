@@ -46,7 +46,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
-| [Environment Identifyer](https://github.com/stadium-software/environment-identifyer) | Enable users to identify an environment (e.g. staging or uat) | 6 |
+| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
 | [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
 | [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
