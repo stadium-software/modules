@@ -38,8 +38,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Full-Width Top Bar](https://github.com/stadium-software/full-width-top-bar) | Making the first row span the entire viewport | 6 |
-| [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 | [Layout Grid Column Span](https://github.com/stadium-software/layout-grid-column-span) | Making cells span multiple columns | 5, 6 |
+| [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 
 ## Misc
 
