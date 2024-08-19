@@ -60,6 +60,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Address Lookup](https://github.com/stadium-software/address-lookup-openstreetmap) | Address lookups using OpenStreetMap | 6 |
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
