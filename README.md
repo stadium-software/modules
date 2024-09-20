@@ -21,6 +21,12 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Show / hide columns in scripts](https://github.com/stadium-software/datagrid-showhide-columns-programatically) | Programatically showing and hiding datagrid columns | 6 |
 | [User-driven column show / hide](https://github.com/stadium-software/datagrid-showhide-columns) | Allowing users to show and hide datagrid columns | 6 |
 
+## Repeaters
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [DataGrid](https://github.com/stadium-software/repeater-datagrid) | Working with datasets of any size | 6 |
+
 ## Icons
 
 | Repo                                                                         | Description                                   | Stadium Versions |
