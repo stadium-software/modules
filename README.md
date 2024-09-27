@@ -100,7 +100,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
-| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from a UploadFile control | 6 |
+| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
