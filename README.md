@@ -18,6 +18,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
 | [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
+| [Row Menu](https://github.com/stadium-software/datagrid-row-menu) | Displaying link columns in a menu | 6 |
 | [Show / hide columns in scripts](https://github.com/stadium-software/datagrid-showhide-columns-programatically) | Programatically showing and hiding datagrid columns | 6 |
 | [User-driven column show / hide](https://github.com/stadium-software/datagrid-showhide-columns) | Allowing users to show and hide datagrid columns | 6 |
 
@@ -25,7 +26,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [DataGrid](https://github.com/stadium-software/repeater-datagrid) | Working with datasets of any size | 6 |
+| [Server-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | Displaying datasets of any size | 6 |
 
 ## Icons
 
