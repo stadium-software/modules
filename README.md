@@ -105,6 +105,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
+| [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
 | [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
