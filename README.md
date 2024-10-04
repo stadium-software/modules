@@ -71,6 +71,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
+| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
