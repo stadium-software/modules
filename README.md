@@ -58,6 +58,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
 | [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
+| [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
@@ -115,6 +116,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [List to CSV Download](https://github.com/stadium-software/utils-list-to-csv-download) | Converts Lists to CSV files | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
+| [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 | [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
