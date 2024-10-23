@@ -26,7 +26,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Server-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | Displaying datasets of any size | 6 |
+| [Client-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | A highly custimisable and extensible way to show data in a grid | 6 |
+| [Server-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
 
 ## Icons
 
