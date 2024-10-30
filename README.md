@@ -88,6 +88,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
+| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
 | [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
