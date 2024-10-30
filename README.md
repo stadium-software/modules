@@ -62,6 +62,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
+| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
 
