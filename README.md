@@ -136,6 +136,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo                                                                            | Description                       | Stadium Versions |
 | :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
 | [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Sample Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
 | [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
