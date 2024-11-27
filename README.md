@@ -19,7 +19,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Row Menu](https://github.com/stadium-software/datagrid-row-menu) | Displaying link columns in a menu | 6 |
-| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Samples Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
 | [Show / hide columns in scripts](https://github.com/stadium-software/datagrid-showhide-columns-programatically) | Programatically showing and hiding datagrid columns | 6 |
 | [User-driven column show / hide](https://github.com/stadium-software/datagrid-showhide-columns) | Allowing users to show and hide datagrid columns | 6 |
 
@@ -28,7 +28,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Client-Side DataGrid](https://github.com/stadium-software/repeater-datagrid-client-side) | A highly customisable and extensible way to show data in a grid | 6 |
-| [Sample Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
+| [Samples Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
 | [Server-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
 
 ## Icons
@@ -137,8 +137,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                            | Description                       | Stadium Versions |
 | :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
-| [Sample Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
-| [Sample Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
+| [Samples Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Samples Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
 | [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
 
 [Documentation](https://stadium.software/docs/?utm=gh) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
