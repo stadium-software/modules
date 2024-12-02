@@ -61,7 +61,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
-| [LiveUpdate](https://github.com/stadium-software/live-update) | Updating page data at a regular interval | 6 |
+| [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
