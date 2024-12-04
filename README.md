@@ -30,7 +30,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Client-Side DataGrid](https://github.com/stadium-software/repeater-datagrid-client-side) | A highly customisable and extensible way to show data in a grid | 6 |
 | [Samples Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
 | [Server-Side DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
-| [Sortable Repeater](https://github.com/stadium-software/sortable) | Allowing users to manually sort Repeater items | 6 |
+| [Sortable Repeater Items](https://github.com/stadium-software/sortable) | Allowing users to manually sort items in a Repeater | 6 |
 
 ## Icons
 
