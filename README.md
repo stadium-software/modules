@@ -88,6 +88,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
 | [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
+| [Multi-State Button](https://github.com/stadium-software/multistate-button) | A button with multiple states | 6 |
 | [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
 | [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
