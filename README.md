@@ -13,7 +13,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |>
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
 | [Dynamic DataGrid Columns](https://github.com/stadium-software/dynamic-datagrid) | Defining DataGrid columns at runtime | 6                |
-| [Escape Search Box Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DatGrid search boxes | 6 |
+| [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
 | [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inline editing of selected DataGrid columns | 6 |
 | [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
@@ -123,7 +123,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
-| [Escape Search Box Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DatGrid search boxes | 6 |
+| [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
