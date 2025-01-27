@@ -15,6 +15,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Dynamic DataGrid Columns](https://github.com/stadium-software/dynamic-datagrid) | Defining DataGrid columns at runtime | 6                |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
+| [Friendlier Search Error](https://github.com/stadium-software/datagrid-search-friendly-error) | Show a less scary generic search error | 6 |
 | [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inline editing of selected DataGrid columns | 6 |
 | [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
 | [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
