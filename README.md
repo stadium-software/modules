@@ -87,6 +87,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
 | [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
+| [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
 | [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
 | [Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
 | [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
