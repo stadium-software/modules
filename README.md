@@ -72,7 +72,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
-| [Validations Cheatsheet](https://github.com/stadium-software/validations-cheatsheet) | Regular Expressions to validate control values | 6.12 |
+| [Validations Cheatsheet](https://github.com/stadium-software/validations-cheatsheet) | Regular Expressions to validate control values | 6.12+ |
 
 ## UI Controls
 
