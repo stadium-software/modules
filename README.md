@@ -16,9 +16,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
 | [Friendlier Search Error](https://github.com/stadium-software/datagrid-search-friendly-error) | Show a less scary generic search error | 6 |
-| [Inline DataGrid Column Editing](https://github.com/stadium-software/datagrid-inline-column-edit) | Inline editing of selected DataGrid columns | 6 |
-| [Inline DataGrid Editing](https://github.com/stadium-software/datagrid-inline-edit) | Inline editing of full DataGrid pages | 6 |
-| [Inline DataGrid Row Editing](https://github.com/stadium-software/datagrid-inline-row-edit) | Inline editing of selected DataGrid rows | 6 |
 | [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Row Menu](https://github.com/stadium-software/datagrid-row-menu) | Displaying link columns in a menu | 6 |
@@ -72,7 +69,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
-| [Validations Cheatsheet](https://github.com/stadium-software/validations-cheatsheet) | Regular Expressions to validate control values | 6.12+ |
 
 ## UI Controls
 
@@ -139,6 +135,13 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 | [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
+
+## How-To
+
+| Repo                                                                                               | Description                                                            | Stadium Versions |
+| :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
+| [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
+| [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 
 ## Applications
 
