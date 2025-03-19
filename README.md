@@ -10,7 +10,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Advanced client-side search forms | 6 |
-| [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |>
+| [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
 | [Dynamic DataGrid Columns](https://github.com/stadium-software/dynamic-datagrid) | Defining DataGrid columns at runtime | 6                |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
@@ -135,6 +135,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 | [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
+| [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
 
 ## How-To
 
