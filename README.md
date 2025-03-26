@@ -37,7 +37,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                         | Description                                   | Stadium Versions |
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
-| [Buttons, Labels and Links](https://github.com/stadium-software/label-button-icons) | Using the Iconify library to add icons to button, label or link controls | 6                |
+| [Iconify Buttons, Labels and Link Icons](https://github.com/stadium-software/label-button-icons) | Using Iconify to add icons to selected controls | 6                |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
 | [Icons Framework](https://github.com/stadium-software/icons) | Adding the Iconify icons library to an application | 6                |
