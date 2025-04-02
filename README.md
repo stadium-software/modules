@@ -39,8 +39,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
-| [Icons Framework](https://github.com/stadium-software/icons) | Adding the Iconify icons library to an application | 6                |
-| [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs with or without icons | 6 |
+| [Iconify Library](https://github.com/stadium-software/icons) | Adding the Iconify icons library to an application | 6                |
+| [Tabs](https://github.com/stadium-software/tabs) | Tabs with or without icons | 6 |
 | [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
@@ -101,7 +101,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
 | [Tabbing Order](https://github.com/stadium-software/form-fields-tab-order) | Setting a custom tabbing order for form fields | 6 |
-| [Tabs](https://github.com/stadium-software/tabs) | Horizontal and vertical tabs | 6 |
+| [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs | 6 |
 | [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
