@@ -111,7 +111,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Add / Remove Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
+| [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
 | [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
 | [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
