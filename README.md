@@ -103,6 +103,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Tabbing Order](https://github.com/stadium-software/form-fields-tab-order) | Setting a custom tabbing order for form fields | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs | 6 |
 | [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
+| [TextBox Hints](https://github.com/stadium-software/textbox-hints) | Add an icon to a TextBox and show a tooltip when users hover it | 6 |
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
