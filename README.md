@@ -16,6 +16,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
 | [Friendlier Search Error](https://github.com/stadium-software/datagrid-search-friendly-error) | Show a less scary generic search error | 6 |
+| [Master-Detail Data Display](https://github.com/stadium-software/datagrids-master-detail) | Allow users to scan a master DataGrid to find records in a details DataGrid | 6 |
 | [Resizable DataGrid Columns](https://github.com/stadium-software/resize-datagrid-columns) | Allowing users to resize DataGrid columns | 6 |
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Row Menu](https://github.com/stadium-software/datagrid-row-menu) | Displaying link columns in a menu | 6 |
