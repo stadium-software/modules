@@ -41,7 +41,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
-| [Icons](https://icones.js.org/collection/all) | Finding & displaying icons in various components | 6                |
+| [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
 | [Tabs](https://github.com/stadium-software/tabs) | Tabs with or without icons | 6 |
 | [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
