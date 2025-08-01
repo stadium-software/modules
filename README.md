@@ -117,7 +117,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
 | [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
-| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Write, read and delete variables across pages | 6 |
+| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Temporarily store variables against the application | 6 |
 | [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
@@ -133,7 +133,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
-| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Write, read and delete variables on a page | 6 |
+| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
@@ -145,6 +145,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                                               | Description                                                            | Stadium Versions |
 | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
+| [DataGrid Pills](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
 | [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 
