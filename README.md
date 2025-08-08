@@ -89,6 +89,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
 | [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
 | [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
+| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
 | [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
 | [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
@@ -131,7 +132,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
 | [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
-| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
