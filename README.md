@@ -12,6 +12,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Generates search forms and populates the DataGrid search box | 6 |
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
+| [Enum Column Styling](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
 | [Dynamic DataGrid Columns](https://github.com/stadium-software/dynamic-datagrid) | Defining DataGrid columns at runtime | 6                |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
@@ -130,6 +131,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
 | [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
+| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
@@ -145,7 +147,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                                               | Description                                                            | Stadium Versions |
 | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
-| [DataGrid Pills](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
+| [DataGrid Enum Column Styling](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
 | [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 
