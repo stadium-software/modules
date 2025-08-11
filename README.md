@@ -149,7 +149,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
 | [DataGrid Enum Column Styling](https://github.com/stadium-software/howto-datagrid-enum-column-value-styling)               | Style DataGrid columns by value | 6 |
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
-| [Javascript vs JSON Objects](https://github.com/stadium-software/howto-JS-vs-JSON)               | Differences between Javascript objects and JSON objects | 6 |
+| [Javascript vs JSON Arrays](https://github.com/stadium-software/howto-JS-vs-JSON)               | Differences between Javascript and JSON arrays | 6 |
 | [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 
 ## Applications
