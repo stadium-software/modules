@@ -148,7 +148,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo                                                                                               | Description                                                            | Stadium Versions |
 | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
-| [Built-In CSS Classes](https://github.com/stadium-software/howto-builtin-css-classes)               | How to use built-in CSS classes for frequently needed UI elements | 6 |
+| [Built-In CSS Classes](https://github.com/stadium-software/howto-builtin-css-classes)               | Use built-in CSS classes for frequently needed UI elements | 6 |
 | [DataGrid Enum Column Styling](https://github.com/stadium-software/howto-datagrid-enum-column-value-styling)               | Style DataGrid columns by value | 6 |
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
 | [Javascript vs JSON Arrays](https://github.com/stadium-software/howto-JS-vs-JSON)               | Differences between Javascript and JSON arrays | 6 |
