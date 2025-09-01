@@ -135,6 +135,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
+| [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Marge lists of values, objects or deep objects | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
 | [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
