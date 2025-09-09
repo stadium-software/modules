@@ -127,6 +127,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
+| [Download API File](https://github.com/stadium-software/download-api-file) | The DownloadFile action for files from a REST API | 6 |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
