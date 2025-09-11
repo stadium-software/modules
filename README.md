@@ -79,6 +79,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
 | [Address Lookup](https://github.com/stadium-software/address-lookup-openstreetmap) | Address lookups using OpenStreetMap | 6 |
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
+| [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Check All / None Checkbox](https://github.com/stadium-software/checkboxlist-check-all-none) | Add a Check All / None CheckBox to Checkbox Lists | 6 |
 | [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
