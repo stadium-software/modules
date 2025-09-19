@@ -22,6 +22,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Responsive DataGrid](https://github.com/stadium-software/responsive-datagrid) | Making DataGrids responsive | 6 |
 | [Row Menu](https://github.com/stadium-software/datagrid-row-menu) | Displaying link columns in a menu | 6 |
 | [Samples Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
+| [Select Single Row](https://github.com/stadium-software/select-single-datagrid-row) | Selecting a single row in a DataGrid | 6 |
 | [Show / hide columns in scripts](https://github.com/stadium-software/datagrid-showhide-columns-programatically) | Programatically showing and hiding datagrid columns | 6 |
 | [User-driven column show / hide](https://github.com/stadium-software/datagrid-showhide-columns) | Allowing users to show and hide datagrid columns | 6 |
 
