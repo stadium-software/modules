@@ -5,24 +5,25 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
-## Table of Contents <!-- omit in toc -->
+## Table of Contents
 
-1. [Applications](#applications)
-2. [Charts \& Data Visualization](#charts--data-visualization)
-3. [DataGrids](#datagrids)
-4. [Form Controls](#form-controls)
-5. [How-To Guides \& Resources](#how-to-guides--resources)
-6. [Integration \& Data](#integration--data)
-7. [Interaction](#interaction)
-8. [Layouts](#layouts)
-9. [Navigation](#navigation)
-10. [Repeaters](#repeaters)
-11. [Theming \& Styling](#theming--styling)
-12. [UI Components](#ui-components)
-13. [Utilities](#utilities)
+1. [Table of Contents](#table-of-contents)
+2. [Applications](#applications)
+3. [Charts \& Data Visualization](#charts--data-visualization)
+4. [DataGrids](#datagrids)
+5. [Form Controls](#form-controls)
+6. [How-To Guides \& Resources](#how-to-guides--resources)
+7. [Integration \& Data](#integration--data)
+8. [Interaction](#interaction)
+9. [Layouts](#layouts)
+10. [Navigation](#navigation)
+11. [Repeaters](#repeaters)
+12. [Theming \& Styling](#theming--styling)
+13. [UI Components](#ui-components)
+14. [Utilities](#utilities)
     1. [General](#general)
     2. [List](#list)
-14. [Validation \& Error Handling](#validation--error-handling)
+15. [Validation \& Error Handling](#validation--error-handling)
 
 ## Applications
 
