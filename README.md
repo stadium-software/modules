@@ -13,9 +13,9 @@ This library extends the out-of-the-box functionality for Stadium 6
 - [Form Controls](#form-controls)
 - [How-To Guides & Resources](#how-to-guides--resources)
 - [Integration & Data](#integration--data)
+- [Interaction](#interaction)
 - [Layouts](#layouts)
-- [Menus](#menus)
-- [Navigation & Interaction](#navigation--interaction)
+- [Navigation](#navigation)
 - [Repeaters](#repeaters)
 - [Theming & Styling](#theming--styling)
 - [UI Components](#ui-components)
@@ -71,6 +71,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
 | [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
+| [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
 | [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
 | [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
@@ -79,6 +80,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [TextBox Hints](https://github.com/stadium-software/textbox-hints) | Add icons to TextBoxes and show tooltips when users hover them | 6 |
 | [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
+| [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 
 ## How-To Guides & Resources
 
@@ -104,6 +106,17 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
 | [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 
+## Interaction
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
+| [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
+| [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
+| [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
+| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
+| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
+
 ## Layouts
 
 | Repo | Description | Stadium Versions |
@@ -112,26 +125,15 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Layout Grid Column Span](https://github.com/stadium-software/layout-grid-column-span) | Making cells span multiple columns | 5, 6 |
 | [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 
-## Menus
+## Navigation
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
 | [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
 | [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
-
-## Navigation & Interaction
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
-| [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
-| [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
-| [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
-| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
-| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 
 ## Repeaters
 
@@ -162,11 +164,9 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
 | [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
 | [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
-| [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
 | [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs with or without icons | 6 |
-| [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
 ## Utilities
