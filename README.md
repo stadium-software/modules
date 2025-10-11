@@ -5,6 +5,23 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
+## Table of Contents
+
+- [DataGrids](#datagrids)
+- [Repeaters](#repeaters)
+- [Form Controls](#form-controls)
+- [UI Components](#ui-components)
+- [Navigation & Interaction](#navigation--interaction)
+- [Charts & Data Visualization](#charts--data-visualization)
+- [Layouts](#layouts)
+- [List Utilities](#list-utilities)
+- [General Utilities](#general-utilities)
+- [Theming & Styling](#theming--styling)
+- [Validation & Error Handling](#validation--error-handling)
+- [Integration & Data](#integration--data)
+- [Applications](#applications)
+- [How-To Guides & Resources](#how-to-guides--resources)
+
 ## DataGrids
 
 | Repo | Description | Stadium Versions |
@@ -37,16 +54,68 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Server-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
 | [Sortable Repeater Items](https://github.com/stadium-software/sortable) | Allowing users to manually sort items in a Repeater | 6 |
 
-## Icons
+## Form Controls
 
-| Repo                                                                         | Description                                   | Stadium Versions |
-| :--------------------------------------------------------------------------- | :-------------------------------------------- | :--------------- |
-| [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
-| [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
-| [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
-| [Tabs](https://github.com/stadium-software/tabs) | Tabs with or without icons | 6 |
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Address Lookup](https://github.com/stadium-software/address-lookup-openstreetmap) | Address lookups using OpenStreetMap | 6 |
+| [Check All / None Checkbox](https://github.com/stadium-software/checkboxlist-check-all-none) | Add a Check All / None CheckBox to Checkbox Lists | 6 |
+| [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
+| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
+| [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
+| [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
+| [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
+| [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
+| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
+| [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
+| [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
+| [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
+| [Tabbing Order](https://github.com/stadium-software/form-fields-tab-order) | Setting a custom tabbing order for form fields | 6 |
+| [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
+| [TextBox Hints](https://github.com/stadium-software/textbox-hints) | Add icons to TextBoxes and show tooltips when users hover them | 6 |
 | [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
+| [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
+
+## UI Components
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
+| [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
+| [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
+| [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
+| [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
+| [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
+| [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
+| [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
+| [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
+| [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
+| [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs with or without icons | 6 |
+| [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
+
+## Navigation & Interaction
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
+| [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
+| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
+| [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
+| [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
+| [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
+| [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
+| [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
+| [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
+| [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
+| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
+| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
+
+## Charts & Data Visualization
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Clickable Charts](https://github.com/stadium-software/clickable-charts) | Allow users to interact with chart segments | 6 |
 
 ## Layouts
 
@@ -56,101 +125,66 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Layout Grid Column Span](https://github.com/stadium-software/layout-grid-column-span) | Making cells span multiple columns | 5, 6 |
 | [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 
-## Misc
+## List Utilities
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
-| [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
-| [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
-| [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
-| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
-| [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
-| [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
-| [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
-| [Show element on hover](https://github.com/stadium-software/show-control-on-hover) | Showing one control when another on is hovered | 6 |
-| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
-| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
-| [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
-
-## UI Controls
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
-| [Address Lookup](https://github.com/stadium-software/address-lookup-openstreetmap) | Address lookups using OpenStreetMap | 6 |
-| [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
-| [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
-| [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
-| [Check All / None Checkbox](https://github.com/stadium-software/checkboxlist-check-all-none) | Add a Check All / None CheckBox to Checkbox Lists | 6 |
-| [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
-| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
-| [Clickable Charts](github.com/stadium-software/clickable-charts) | Allow users to interact with chart segments | 6 |
-| [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
-| [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
-| [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
-| [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
-| [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
-| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
-| [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
-| [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
-| [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
-| [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
-| [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
-| [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
-| [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
-| [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
-| [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
-| [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
-| [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
-| [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
-| [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
-| [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
-| [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
-| [Tabbing Order](https://github.com/stadium-software/form-fields-tab-order) | Setting a custom tabbing order for form fields | 6 |
-| [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs | 6 |
-| [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
-| [TextBox Hints](https://github.com/stadium-software/textbox-hints) | Add icons to TextBoxes and show tooltips when users hover them | 6 |
-| [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
-| [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
-| [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
-| [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
-
-## Utilities
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
 | [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
-| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Temporarily store variables against the application | 6 |
-| [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
-| [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [Compare Lists](https://github.com/stadium-software/utils-compare-lists) | Compare objects in two Lists | 6 |
-| [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
-| [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
-| [Download API File](https://github.com/stadium-software/download-api-file) | The DownloadFile action for files from a REST API | 6 |
-| [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
 | [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
-| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
-| [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Merge lists of values, objects or deep objects | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
-| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
-| [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
-| [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
-| [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
-| [TextBox Enter Key](https://github.com/stadium-software/utils-textbox-enter-event) | Run a script when users press enter in a TextBox | 6 |
 | [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
 
-## How-To
+## General Utilities
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
+| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Temporarily store variables against the application | 6 |
+| [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
+| [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
+| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
+| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
+| [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
+| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
+
+## Theming & Styling
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
+| [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
+
+## Validation & Error Handling
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
+| [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
+
+## Integration & Data
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
+| [Download API File](https://github.com/stadium-software/download-api-file) | The DownloadFile action for files from a REST API | 6 |
+
+## Applications
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [User Management Portal](https://github.com/stadium-software/user-management-portal) | Bulk manage users across Stadium applications | 6 |
+
+## How-To Guides & Resources
 
 | Repo                                                                                               | Description                                                            | Stadium Versions |
 | :------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :--------------- |
@@ -159,21 +193,13 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
 | [Javascript vs JSON Arrays](https://github.com/stadium-software/howto-JS-vs-JSON)               | Differences between Javascript and JSON arrays | 6 |
 | [Lists](https://github.com/stadium-software/howto-lists)               | Working with Lists in the Stadium Designer | 6 |
-| [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
-
-## Applications
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [User Management Portal](https://github.com/stadium-software/user-management-portal) | Bulk manage users across Stadium applications | 6 |
-
-## Supporting Repos
-
-| Repo                                                                            | Description                       | Stadium Versions |
-| :------------------------------------------------------------------------------ | :-------------------------------- | :--------------- |
 | [Samples Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
 | [Samples Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
+| [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 | [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
 
+---
+
 [Documentation](https://docs.stadium.software/) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
+
 </div>
