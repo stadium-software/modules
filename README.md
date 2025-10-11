@@ -85,7 +85,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Check All / None Checkbox](https://github.com/stadium-software/checkboxlist-check-all-none) | Add a Check All / None CheckBox to Checkbox Lists | 6 |
 | [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
 | [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
-| [Clickable Charts](github.com/stadium-software/clickable-charts) | allow users to interact with chart segments | 6 |
+| [Clickable Charts](github.com/stadium-software/clickable-charts) | Allow users to interact with chart segments | 6 |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
