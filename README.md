@@ -11,15 +11,17 @@ This library extends the out-of-the-box functionality for Stadium 6
 - [Charts & Data Visualization](#charts--data-visualization)
 - [DataGrids](#datagrids)
 - [Form Controls](#form-controls)
-- [General Utilities](#general-utilities)
 - [How-To Guides & Resources](#how-to-guides--resources)
 - [Integration & Data](#integration--data)
 - [Layouts](#layouts)
-- [List Utilities](#list-utilities)
+- [Menus](#menus)
 - [Navigation & Interaction](#navigation--interaction)
 - [Repeaters](#repeaters)
 - [Theming & Styling](#theming--styling)
 - [UI Components](#ui-components)
+- [Utilities](#utilities)
+  - [General](#general)
+  - [List](#list)
 - [Validation & Error Handling](#validation--error-handling)
 
 ## Applications
@@ -65,6 +67,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
 | [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
+| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
 | [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
@@ -76,19 +79,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [TextBox Hints](https://github.com/stadium-software/textbox-hints) | Add icons to TextBoxes and show tooltips when users hover them | 6 |
 | [Textbox Icons](https://github.com/stadium-software/textbox-icons) | Showing icons in textboxes | 6 |
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
-
-## General Utilities
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
-| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Temporarily store variables against the application | 6 |
-| [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
-| [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
-| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
-| [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
-| [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
-| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 
 ## How-To Guides & Resources
 
@@ -108,8 +98,11 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Application Variables](https://github.com/stadium-software/utils-body-variables) | Temporarily store variables against the application | 6 |
 | [Cookies](https://github.com/stadium-software/cookies) | Read, write and delete cookies | 6 |
 | [Download API File](https://github.com/stadium-software/download-api-file) | The DownloadFile action for files from a REST API | 6 |
+| [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
+| [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 
 ## Layouts
 
@@ -119,34 +112,19 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Layout Grid Column Span](https://github.com/stadium-software/layout-grid-column-span) | Making cells span multiple columns | 5, 6 |
 | [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 
-## List Utilities
-
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
-| [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
-| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
-| [Compare Lists](https://github.com/stadium-software/utils-compare-lists) | Compare objects in two Lists | 6 |
-| [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
-| [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
-| [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
-| [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
-| [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
-| [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
-| [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Merge lists of values, objects or deep objects | 6 |
-| [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
-| [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
-| [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
-
-## Navigation & Interaction
+## Menus
 
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
 | [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
-| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
-| [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
 | [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
+
+## Navigation & Interaction
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Embed Remote Page](https://github.com/stadium-software/embed-remote-page) | Embed a remote page in a Stadium page | 6 |
 | [Message Box](https://github.com/stadium-software/message-box) | For custom buttons and HTML content | 6 |
 | [Popups](https://github.com/stadium-software/popups) | In-page modular popups or pages that appear as modular popups | 6 |
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
@@ -190,6 +168,37 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs with or without icons | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
+
+## Utilities
+
+### General
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
+| [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
+| [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
+| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
+| [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
+
+### List
+
+| Repo | Description | Stadium Versions |
+| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
+| [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
+| [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
+| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
+| [Compare Lists](https://github.com/stadium-software/utils-compare-lists) | Compare objects in two Lists | 6 |
+| [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
+| [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
+| [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
+| [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
+| [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
+| [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
+| [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Merge lists of values, objects or deep objects | 6 |
+| [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
+| [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
+| [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
 
 ## Validation & Error Handling
 
