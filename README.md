@@ -7,22 +7,24 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 ## Table of Contents
 
-- [Applications](#applications)
-- [Charts & Data Visualization](#charts--data-visualization)
-- [DataGrids](#datagrids)
-- [Form Controls](#form-controls)
-- [How-To Guides & Resources](#how-to-guides--resources)
-- [Integration & Data](#integration--data)
-- [Interaction](#interaction)
-- [Layouts](#layouts)
-- [Navigation](#navigation)
-- [Repeaters](#repeaters)
-- [Theming & Styling](#theming--styling)
-- [UI Components](#ui-components)
-- [Utilities](#utilities)
-  - [General](#general)
-  - [List](#list)
-- [Validation & Error Handling](#validation--error-handling)
+1. [Stadium Modules Library](#stadium-modules-library)
+   1. [Table of Contents](#table-of-contents)
+   2. [Applications](#applications)
+   3. [Charts \& Data Visualization](#charts--data-visualization)
+   4. [DataGrids](#datagrids)
+   5. [Form Controls](#form-controls)
+   6. [How-To Guides \& Resources](#how-to-guides--resources)
+   7. [Integration \& Data](#integration--data)
+   8. [Interaction](#interaction)
+   9. [Layouts](#layouts)
+   10. [Navigation](#navigation)
+   11. [Repeaters](#repeaters)
+   12. [Theming \& Styling](#theming--styling)
+   13. [UI Components](#ui-components)
+   14. [Utilities](#utilities)
+       1. [General](#general)
+       2. [List](#list)
+   15. [Validation \& Error Handling](#validation--error-handling)
 
 ## Applications
 
@@ -47,8 +49,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Advanced Search](https://github.com/stadium-software/datagrid-advanced-search) | Generates search forms and populates the DataGrid search box | 6 |
 | [Conditional Row / Cell Styling](https://github.com/stadium-software/conditional-datagrid-styling) | Styling rows or cells according to values found therein | 6 |
 | [DataGrid Column Icons](https://github.com/stadium-software/datagrid-icons-property) | Displaying icons in DataGrid columns | 6.8.3+                |
-| [Enum Column Styling](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
 | [Dynamic DataGrid Columns](https://github.com/stadium-software/dynamic-datagrid) | Defining DataGrid columns at runtime | 6                |
+| [Enum Column Styling](https://github.com/stadium-software/howto-datagrid-pills)               | Style DataGrid columns by value | 6 |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 | [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
 | [Friendlier Search Error](https://github.com/stadium-software/datagrid-search-friendly-error) | Show a less scary generic search error | 6 |
