@@ -22,6 +22,7 @@ This library extends the out-of-the-box functionality for Stadium 6
     1. [General](#general)
     2. [List](#list)
 14. [Validation \& Error Handling](#validation--error-handling)
+15. [Stadium Documentation](#stadium-documentation)
 
 ## Applications
 
@@ -155,14 +156,14 @@ This library extends the out-of-the-box functionality for Stadium 6
 
 ## Repeaters
 
-| Repo | Description | Stadium Versions |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
-| [Child DataGrids](https://github.com/stadium-software/repeater-childgrids) | Showing Child DataGrids inside of a Client-Side Repeater DataGrid | 6 |
-| [Client-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid-client-side) | A highly customisable and extensible way to show data in a grid | 6 |
-| [Filter Grid Generator](https://github.com/stadium-software/filter-grid) | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6 |
-| [Samples Repeater](https://github.com/stadium-software/samples-repeater) | Creating a sample database, connector and Repeater | 5, 6 |
-| [Server-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
-| [Sortable Repeater Items](https://github.com/stadium-software/sortable) | Allowing users to manually sort items in a Repeater | 6 |
+| Repo                                                                                               | Description                                                                    | Stadium Versions |
+| :------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :--------------- |
+| [Child DataGrids](https://github.com/stadium-software/repeater-childgrids)                         | Showing Child DataGrids inside of a Client-Side Repeater DataGrid              | 6                |
+| [Client-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid-client-side) | A highly customisable and extensible way to show data in a grid                | 6                |
+| [Filter Grid Generator](https://github.com/stadium-software/filter-grid)                           | Generate, apply, clear and populate a filters grid for DataGrids and Repeaters | 6                |
+| [Samples Repeater](https://github.com/stadium-software/samples-repeater)                           | Creating a sample database, connector and Repeater                             | 5, 6             |
+| [Server-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid)             | Flexibly working with datasets of any size                                     | 6                |
+| [Sortable Repeater Items](https://github.com/stadium-software/sortable)                            | Allowing users to manually sort items in a Repeater                            | 6                |
 
 [Back to top](#top)
 
@@ -235,6 +236,8 @@ This library extends the out-of-the-box functionality for Stadium 6
 [Back to top](#top)
 
 ---
+
+## Stadium Documentation
 
 [Documentation](https://docs.stadium.software/) | [Community](https://community.stadium.software/community?utm=gh) | [Blog](https://stadium.software/blog/?utm=gh)
 
