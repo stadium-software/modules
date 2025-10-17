@@ -96,6 +96,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Built-In CSS Classes](https://github.com/stadium-software/howto-builtin-css-classes)               | Use built-in CSS classes for frequently needed UI elements | 6 |
 | [DataGrid Enum Column Styling](https://github.com/stadium-software/howto-datagrid-enum-column-value-styling)               | Style DataGrid columns by value | 6 |
 | [Date Formatting](https://github.com/stadium-software/howto-date-formatting)               | Formatting dates with DayJS | 6 |
+| [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
 | [Javascript vs JSON Arrays](https://github.com/stadium-software/howto-JS-vs-JSON)               | Differences between Javascript and JSON arrays | 6 |
 | [Lists](https://github.com/stadium-software/howto-lists)               | Working with Lists in the Stadium Designer | 6 |
 | [Samples Database](https://github.com/stadium-software/samples-database) | Creating a sample database, connector and DataGrid | 5, 6 |
@@ -182,7 +183,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
-| [Icons](https://github.com/stadium-software/icons) | Finding & displaying icons in various components | 6                |
 | [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
 | [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
