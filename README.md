@@ -5,25 +5,23 @@
 
 This library extends the out-of-the-box functionality for Stadium 6
 
-## Table of Contents
-
-1. [Table of Contents](#table-of-contents)
-2. [Applications](#applications)
-3. [Charts \& Data Visualization](#charts--data-visualization)
-4. [DataGrids](#datagrids)
-5. [Form Controls](#form-controls)
-6. [How-To Guides \& Resources](#how-to-guides--resources)
-7. [Integration \& Data](#integration--data)
-8. [Interaction](#interaction)
-9. [Layouts](#layouts)
-10. [Navigation](#navigation)
-11. [Repeaters](#repeaters)
-12. [Theming \& Styling](#theming--styling)
-13. [UI Components](#ui-components)
-14. [Utilities](#utilities)
+## Table of Contents <!-- omit in toc -->
+1. [Applications](#applications)
+2. [Charts \& Data Visualization](#charts--data-visualization)
+3. [DataGrids](#datagrids)
+4. [Form Controls](#form-controls)
+5. [How-To Guides \& Resources](#how-to-guides--resources)
+6. [Integration \& Data](#integration--data)
+7. [Interaction](#interaction)
+8. [Layouts](#layouts)
+9. [Navigation](#navigation)
+10. [Repeaters](#repeaters)
+11. [Theming \& Styling](#theming--styling)
+12. [UI Components](#ui-components)
+13. [Utilities](#utilities)
     1. [General](#general)
     2. [List](#list)
-15. [Validation \& Error Handling](#validation--error-handling)
+14. [Validation \& Error Handling](#validation--error-handling)
 
 ## Applications
 
@@ -31,7 +29,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [User Management Portal](https://github.com/stadium-software/user-management-portal) | Bulk manage users across Stadium applications | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Charts & Data Visualization
 
@@ -39,7 +37,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Clickable Charts](https://github.com/stadium-software/clickable-charts) | Allow users to interact with chart segments | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## DataGrids
 
@@ -62,7 +60,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Show / hide columns in scripts](https://github.com/stadium-software/datagrid-showhide-columns-programatically) | Programatically showing and hiding datagrid columns | 6 |
 | [User-driven column show / hide](https://github.com/stadium-software/datagrid-showhide-columns) | Allowing users to show and hide datagrid columns | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Form Controls
 
@@ -89,7 +87,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [TextBox Types](https://github.com/stadium-software/textbox-types) | Collecting time, datetime, week, month or colour data using TextBoxes  | 6 |
 | [Toggle Buttons](https://github.com/stadium-software/toggle-buttons) | Single-select or multi-select toggle buttons | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## How-To Guides & Resources
 
@@ -105,7 +103,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Validations Cheatsheet](https://github.com/stadium-software/howto-control-validations)               | Regular Expressions to validate control values                         | 6.12+            |
 | [Working with Stadium repos](https://github.com/stadium-software/samples-upgrading) | Using and updating application repos | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Integration & Data
 
@@ -117,7 +115,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [LiveUpdate](https://github.com/stadium-software/liveupdate) | Calling a page script at a regular interval | 6 |
 | [Page Variables](https://github.com/stadium-software/utils-page-variables) | Temporarily store values on a page | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Interaction
 
@@ -130,7 +128,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Simple Tooltips](https://github.com/stadium-software/simple-tooltip) | Attach a title attribute to a control | 6 |
 | [Tooltips](https://github.com/stadium-software/tooltips) | Use the Tippy library to display tooltips | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Layouts
 
@@ -140,7 +138,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Layout Grid Column Span](https://github.com/stadium-software/layout-grid-column-span) | Making cells span multiple columns | 5, 6 |
 | [Top- and Sidebar Layout](https://github.com/stadium-software/holy-grail-layout) | A layout with a topbar and sidebar | 5, 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Navigation
 
@@ -152,7 +150,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
 | [Scroll To](https://github.com/stadium-software/scroll-to) | Scroll the page to the top or to a control | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Repeaters
 
@@ -165,7 +163,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Server-Side Repeater DataGrid](https://github.com/stadium-software/repeater-datagrid) | Flexibly working with datasets of any size | 6 |
 | [Sortable Repeater Items](https://github.com/stadium-software/sortable) | Allowing users to manually sort items in a Repeater | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Theming & Styling
 
@@ -174,7 +172,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [CSS Utilities](https://github.com/stadium-software/css-utilities) | A set of predefined CSS classes for frequently-used styles | 6 |
 | [Theming Kit](https://github.com/stadium-software/theming-kit) | Changing Stadium themes with CSS variables | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## UI Components
 
@@ -192,7 +190,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs with or without icons | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Utilities
 
@@ -225,7 +223,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 | [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ## Validation & Error Handling
 
@@ -234,7 +232,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Display Custom Validation Messages](https://github.com/stadium-software/display-validation-error) | Display custom validations as per built-in ones | 6 |
 | [Escape Forwardslashes](https://github.com/stadium-software/utils-escape-search-forwardslashes) | Automatically escape forwardslashes added to DataGrid search boxes | 6 |
 
-[Back to top](#table-of-contents)
+[Back to top](#stadium-modules-library)
 
 ---
 
