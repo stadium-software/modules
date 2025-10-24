@@ -70,6 +70,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Address Lookup](https://github.com/stadium-software/address-lookup-openstreetmap) | Address lookups using OpenStreetMap | 6 |
 | [Check All / None Checkbox](https://github.com/stadium-software/checkboxlist-check-all-none) | Add a Check All / None CheckBox to Checkbox Lists | 6 |
 | [CheckBox List Filter](https://github.com/stadium-software/checkbox-list-filter) | Allowing users to filter CheckBox Lists | 6 |
+| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
 | [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
@@ -79,6 +80,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
 | [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
 | [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
+| [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Superscript Labels](https://github.com/stadium-software/superscript-labels) | Display field labels in superscript above fields | 6 |
 | [Switch](https://github.com/stadium-software/switch) | Converting a checkbox into a switch  | 6 |
 | [Tabbing Order](https://github.com/stadium-software/form-fields-tab-order) | Setting a custom tabbing order for form fields | 6 |
@@ -147,6 +149,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion Menu](https://github.com/stadium-software/accordion-menu) | Change a menu to an display as an accordion | 6 |
+| [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
 | [Dynamic Menu Items](https://github.com/stadium-software/dynamic-menu) | Generate menu items from data at runtime | 6 |
 | [Menu Selected Item](https://github.com/stadium-software/menu-selected-item) | Styling selected menu items | 6 |
 | [Role-Specific StartPages](https://github.com/stadium-software/role-specific-startpage) | Redirect users to pages according to a role | 6 |
@@ -181,13 +184,12 @@ This library extends the out-of-the-box functionality for Stadium 6
 | Repo | Description | Stadium Versions |
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Accordion](https://github.com/stadium-software/accordion) | An accordion control | 6 |
-| [Back To Top](https://github.com/stadium-software/back-to-top-button) | Display a BackToTop button when users scroll | 6 |
 | [Button Bar](https://github.com/stadium-software/button-bar) | Show multiple related buttons in a horizontal or vertical stack | 6                |
 | [Collapse Controls](https://github.com/stadium-software/collapse-controls) | Make any control collapsible | 6 |
+| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
 | [Nested Lists](https://github.com/stadium-software/nested-list) | Display nested lists in a treeview | 6 |
 | [Page Loader](https://github.com/stadium-software/page-loader) | Customise the "loading" indicator bar | 6 |
 | [Spinner Controls](https://github.com/stadium-software/spinners) | Spinners for entire pages or page elements | 6 |
-| [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
 | [Tabs](https://github.com/stadium-software/tabs) | Single- or multi-page tabs with or without icons | 6 |
 | [Workflow Steps](https://github.com/stadium-software/workflow-steps) | Vertical or horizontal workflow progress indicators | 6 |
 
@@ -202,7 +204,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Add / Remove Control Class](https://github.com/stadium-software/utils-add-remove-class) | Add, remove or toggle classes on the Control *Classes* property | 6 |
 | [Calculate Percentage](https://github.com/stadium-software/utils-calculate-percent) | Calculate percentages to specific decimal places | 6 |
 | [Copy To Clipboard](https://github.com/stadium-software/copy-to-clipboard) | Copy control content or selected text to the clipboard | 6 |
-| [Environment Identifier](https://github.com/stadium-software/environment-identifier) | Enable users to identify an environment (e.g. staging or uat) | 6 |
 | [Generate Random String](https://github.com/stadium-software/utils-generate-random-string) | Generate a random string of any length | 6 |
 
 ### List
@@ -211,7 +212,6 @@ This library extends the out-of-the-box functionality for Stadium 6
 | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------ |
 | [Add / Remove Object By Property](https://github.com/stadium-software/utils-addremove-from-objects-list-by-property) | Add or remove an object from a list | 6 |
 | [Check Object List for Completeness](https://github.com/stadium-software/utils-check-object-properties) | Check that objects in a list have the same properties | 6 |
-| [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [Compare Lists](https://github.com/stadium-software/utils-compare-lists) | Compare objects in two Lists | 6 |
 | [Deduplicate List](https://github.com/stadium-software/utils-deduplicate-array) | Remove duplicate values from lists | 6 |
 | [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
