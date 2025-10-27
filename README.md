@@ -223,6 +223,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
 | [Sort List By](https://github.com/stadium-software/utils-sort-array-by) | Sort lists of values or objects | 6 |
 | [Unselected List](https://github.com/stadium-software/utils-unselected-list) | Get the list of DataGrid or CheckboxList items that were not selected | 6 |
+| [Update List Value](https://github.com/stadium-software/utils-update-list-item) | Update a property in a list of objects | 6 |
 
 [Back to top](#top)
 
