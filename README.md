@@ -78,6 +78,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
 | [Multi-Column CheckBox Lists](https://github.com/stadium-software/multicolumn-checkboxlist) | Displaying a checkbox list in multiple columns | 6 |
 | [Multi-Select DropDown](https://github.com/stadium-software/multi-select-dropdown) | A checkbox list in a dropdown container | 6 |
+| [RadioButton List Filter](https://github.com/stadium-software/radiobutton-list-filter) | Allowing users to filter RadioButton Lists | 6 |
 | [Selectable Buttons](https://github.com/stadium-software/selectable-buttons) | Turn a CheckBoxList into a set of selectable buttons | 6 |
 | [Select TextBox Contents](https://github.com/stadium-software/form-fields-content-select) | Automatically select the entire contents of a TextBox when it is selected | 6 |
 | [Split Button](https://github.com/stadium-software/split-button) | Converting a button and a dropdown into a split button | 6 |
