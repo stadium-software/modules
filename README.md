@@ -218,7 +218,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Extract Property As Array](https://github.com/stadium-software/utils-extract-property-as-array) | Extract a property from a List of objects into a simple List | 6 |
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
-| [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
+| [Format List Date Property](https://github.com/stadium-software/utils-format-list-date-property) | Change the format of date columns in lists | 6 |
 | [Get Changed List Items](https://github.com/stadium-software/utils-get-changed-list-items) | Pass in an original and an updated List and get items that were added or updated | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Merge lists of values, objects or deep objects | 6 |
