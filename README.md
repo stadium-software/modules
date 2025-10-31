@@ -219,6 +219,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Filter List of Objects](https://github.com/stadium-software/utils-filter-objects-list) | Filter a List of objects by one or more property values | 6 |
 | [Find Index By Property](https://github.com/stadium-software/utils-find-index-by-property) | Find the index of an object in a List of objects by a property value | 6 |
 | [Find Object By Property](https://github.com/stadium-software/utils-find-object-by-property) | Find an object in a List of objects by one property value | 6 |
+| [Get Changed List Items](https://github.com/stadium-software/utils-get-changed-list-items) | Get a List of items that were changed or updated | 6 |
 | [Insert Into List At](https://github.com/stadium-software/utils-insert-into-array-at) | Insert an item into a List at a specified position | 6 |
 | [Merge Lists](https://github.com/stadium-software/utils-merge-lists) | Merge lists of values, objects or deep objects | 6 |
 | [Remove Object By Property](https://github.com/stadium-software/utils-delete-by-property) | Remove an object from a List of objects by the value of a property | 6 |
