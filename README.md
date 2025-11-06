@@ -73,6 +73,7 @@ This library extends the out-of-the-box functionality for Stadium 6
 | [Checkbox List Options](https://github.com/stadium-software/checkbox-list-all-options) | Getting checked and unchecked options from a checkbox list in one list | 6 |
 | [Clear UploadFile Control](https://github.com/stadium-software/utils-clear-upload-file-control) | Programatically remove all files from UploadFile controls | 6 |
 | [DropDown Filter](https://github.com/stadium-software/dropdown-filter) | Allowing users to filter DropDown values | 6 |
+| [DropDown Filter Server-Side](https://github.com/stadium-software/dropdown-filter-server-side) | A searchable server-side DropDown | 6 |
 | [DropDown Separators](https://github.com/stadium-software/dropdown-separators) | Display separators in dropdowns | 6 |
 | [Focus On](https://github.com/stadium-software/focus-on) | Programatically place focus on a TextBox, DropDown, CheckBox, ChecBoxList, RadioButtonList or DatePicker | 6 |
 | [Form Field Hints](https://github.com/stadium-software/form-field-hints) | Add additional hints underneath form fields | 6 |
